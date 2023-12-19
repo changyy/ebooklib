@@ -12,7 +12,7 @@ def read(path):
 
 
 setup(
-    name = 'EbookLib',
+    name = 'EbookLib.changyy',
     version = read('PreVersion.md'), #'0.18',
     author = 'Aleksandar Erkalovic',
     author_email = 'aerkalov@gmail.com',
